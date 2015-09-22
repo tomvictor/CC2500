@@ -1,0 +1,1 @@
+"./CC1100-CC2500.obj" "./TI_CC_spi.obj" "./rx.obj" "../lnk_msp430g2553.cmd" -l"libc.a" 
