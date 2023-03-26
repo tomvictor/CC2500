@@ -1,6 +1,11 @@
-# CC2500
-author: Tomvictor
-Website: www.buildfromzero.com
+# Wireless communication using CC2500
+Author: Tomvictor
+Mail: tom@buildfromzero.com
+
+
+![CC2500](rx-tx.png "cc2500 - buildfromzero.com")
+
+
 
 This is a simple program for implementing wireless communication, rssi calculation using cc2500 rf module from texas instruments
 In this project I am measuring accelarometer data using msp430g2553 and send to other msp controller wirelessly with the help of cc2500.
